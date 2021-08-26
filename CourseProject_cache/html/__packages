@@ -1,0 +1,10 @@
+base
+sjstats
+lattice
+ggplot2
+caret
+dplyr
+kableExtra
+foreach
+iterators
+doParallel
